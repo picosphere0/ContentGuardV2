@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContentGuard</string>
+    <string name="accessibility_service_description">Scans on-screen text to block content you\'ve chosen to avoid. Runs entirely on-device — nothing is sent anywhere.</string>
+</resources>
